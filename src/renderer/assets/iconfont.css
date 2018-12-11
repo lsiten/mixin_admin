@@ -1,0 +1,28 @@
+
+@font-face {font-family: "fontFamily";
+  src: url('iconfont.eot?t=1525510617347'); /* IE9*/
+  src: url('iconfont.eot?t=1525510617347#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAUgAAsAAAAAB4AAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFZW7khWY21hcAAAAYAAAABeAAABhproBr5nbHlmAAAB4AAAAUYAAAFUwkahUGhlYWQAAAMoAAAALwAAADYRRmmvaGhlYQAAA1gAAAAcAAAAJAfeA4RobXR4AAADdAAAAAwAAAAMC+kAAGxvY2EAAAOAAAAACAAAAAgAdgCqbWF4cAAAA4gAAAAfAAAAIAESAF1uYW1lAAADqAAAAVMAAAKFV8s9R3Bvc3QAAAT8AAAAIQAAADJ2ht98eJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2Bk/sE4gYGVgYOpk+kMAwNDP4RmfM1gxMjBwMDEwMrMgBUEpLmmMDgwVDzLYW7438AQw9zA0AAUZgTJAQArYAzYeJzFkMENgDAMAy9t6QMxCA8G4sUEHaATd41iQnkwQS05VhxLiQIsQBQPMYFdGA9OueZ+ZHU/eSZLjUBtpXf1nyqiWXYNKplpsHmr/9i87qPTV6iDOrGVl4QbZO4NPwAAeJwljz1Lw1AYhe97r/loTZPm+6tpm8T2KrWBxrQO1griojgITiIO6V7XLg5JQXBwkG6uRXD0DxR/SDdR/0Y14uHAgedMD2IQ+vkgS2IhFW2jHjpBFwgB24FAxB74NIlwB3Sf0U1NJDSkPhcGETkEM2A1Ix4kbZPlWAlEqMOeHw9ohCn0kxE+gNjwAGzXuVRaNYU8Qdmi9fv1GV6A3ghr0qi7Pt090uKmyk8FRbEV5ZFnGYbHeEMSYWIaJaZUZtcvjOToy8YOboBgU+f8qtJ0lfQhufVaZgkgy0B1m+LrkezIRe8cQ1VsrlrhLacSbmkw/dq0VMFrf6IipHB9J2/kGAnIRbXCsw7mCPYjoCJwDBv8jWb6g35BeuCSbJzmGOfpOCMwGT4PZwsM5BrwYoZv/p80JyRPvyntruZVWa7OV130C9A/ONIAAHicY2BkYGAA4lW2p4Ti+W2+MnCzMIDAdeFJNxH0/30sDMxOQC4HAxNIFAAiywouAHicY2BkYGBu+N/AEMPCAAJAkpEBFTADAEcJAmwEAAAAA+kAAAQAAAAAAAAAAHYAqnicY2BkYGBgZghkYGUAASYg5gJCBob/YD4DABD3AXAAeJxtkk1uwjAQhZ/LT9UgddHSdlmvWBQp/CzZooZlJRbsQ3AgKIkjxyDRXQ/Q8/QQPUE3vUHv0EcwQkIk8uibN2/GthIAd/iFwOF54DqwgMfswFe4xrPjGvWO4zq577iBFkaOm9RfHXvo4s1xC/d45wRRv2H2gk/HAm18Ob7CLb4d16j/OK6T/xw38CiE4yba4smxh5noOm6hIz68sVGhVQs538kk0nmsc+vtQxBmSbqbquUmDc1JONFMmTLRuRz4/ZM4Ubkyx3nldjm0Npax0ZkM6FFpqmVh9FpF1l9ZW4x6vdjpfqQzHm8MA4UQlnEBiTl2jAkiaOSIq2jpO1JAb8Z6St+UPUtsyCGnXHJc0mbsMiiZ7WsSA/j8ZJecEzrzyn1+vhJb7jykatkpuQz7M1Lg5ihOSMkSRVVbU4mo+1hVXQV/jR7f+MzvVzfP/gHCFnRdAHicY2BigAAuBuyAmZGJkZmRhYGxgqW0OLWIgQEADsgCWAAAAA==') format('woff'),
+  url('iconfont.ttf?t=1525510617347') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1525510617347#fontFamily') format('svg'); /* iOS 4.1- */
+}
+
+.fontFamily {
+  font-family:"fontFamily" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-xuelv-user:before { content: "\e66c"; }
+
+[class^="el-icon-xuelv"], [class*=" el-icon-xuelv"] {
+  font-family:"fontFamily" !important;
+  /* 以下内容参照第三方图标库本身的规则 */
+  font-size: 18px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
