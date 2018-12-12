@@ -11,7 +11,7 @@ axios.defaults.timeout = 7000
 // 后台接口公共前缀
 // axios.defaults.baseURL = '/api';
 // 线上后台接口  http://api.hostdev.ennjoy.cn http://www.ennjoy.cn/YinKe
-axios.defaults.baseURL = 'http://xxn.lsiten.cn'
+axios.defaults.baseURL = 'http://mixin.lsiten.cn'
 axios.defaults.withCredentials = true
 
 // POST传参序列化
